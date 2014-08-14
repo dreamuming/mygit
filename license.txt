@@ -1,0 +1,1 @@
+﻿This is a licence file for git testing.

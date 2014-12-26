@@ -11,3 +11,4 @@ Git is free software distributed under the GPL.
 Git has a mutable index called stage.
 Git tracks changes.
 Adding a new branck is easy AND simple
+test
